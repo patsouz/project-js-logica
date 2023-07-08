@@ -4,4 +4,4 @@ Pasta de Projetos de Lógica
 
 PSS
 1.gerenciamento de estoque
-2.estudo sobre git pull
+2.estudo sobre git pull dia 08
